@@ -15,6 +15,7 @@
   <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF2B2B?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
   <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
   <a href="https://www.youtube.com/@BankrollMadeThisBeat313"><img src="https://img.shields.io/badge/Live_Cookups-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Live cookups and tutorials" /></a>
+  <a href="https://www.youtube.com/@BMTB313"><img src="https://img.shields.io/badge/Beats_For_Sale-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats for sale" /></a>
   <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -56,6 +57,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 | Stashkit 2025, $20 | [Buy Bankroll Stashkit](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit) |
 | YouTube | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
 | Live cookups and tutorials | [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313) |
+| Beats for sale | [@BMTB313](https://www.youtube.com/@BMTB313) |
 | Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
 | Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
 | Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
@@ -120,7 +122,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 
 ## Now
 
-**Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+**Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), beats for sale on [@BMTB313](https://www.youtube.com/@BMTB313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
 **FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [Discord](https://discord.gg/EEYH9gzsAJ)
 
