@@ -31,6 +31,7 @@
 ### Assetto Corsa
 
 <p align="center">
+  <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
   <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
   <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
 </p>
@@ -76,6 +77,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 
 | Place | Link |
 | --- | --- |
+| YouTube | [@BMTBmods](https://www.youtube.com/@BMTBmods) |
 | Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
 | Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
 
@@ -126,7 +128,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 
 **FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [Discord](https://discord.gg/EEYH9gzsAJ)
 
-**Assetto Corsa** — [Patreon](https://www.patreon.com/c/bmtbmods) and [Discord](https://discord.gg/c9chbpmzqt)
+**Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
 
 ## GitHub
 
