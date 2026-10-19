@@ -1,6 +1,8 @@
-<a href="https://bankrollmadethisbeat.com/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=BMTB;Super+Music+Producer;FiveM+Developer;Assetto+Corsa+Modder;Vibe+AI+Coder" alt="BMTB" />
-</a>
+<p align="center">
+  <a href="https://bankrollmadethisbeat.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=BMTB;Super+Music+Producer;FiveM+Developer;Assetto+Corsa+Modder;Vibe+AI+Coder" alt="BMTB" />
+  </a>
+</p>
 
 <p align="center">
   <strong>BMTB</strong><br/>
@@ -18,7 +20,7 @@
   <img src="https://img.shields.io/badge/Self--Taught-YouTube%20%26%20AI-EAB308?style=flat-square&logo=youtube&logoColor=white" alt="Self-Taught YouTube and AI" />
 </p>
 
-### 🎵 Beats
+<h3 align="center">🎵 Beats</h3>
 
 <p align="center">
   <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats_Here-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
@@ -30,7 +32,7 @@
   <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-EAB308?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### 🎮 FiveM scripts
+<h3 align="center">🎮 FiveM scripts</h3>
 
 <p align="center">
   <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
@@ -39,7 +41,7 @@
   <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-EAB308?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
-### 🏎️ Assetto Corsa
+<h3 align="center">🏎️ Assetto Corsa</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
@@ -49,22 +51,22 @@
 
 ---
 
-## 👋 About
+<h2 align="center">👋 About</h2>
 
-I’m BMTB, from Detroit, Michigan. I produce music, develop for FiveM, and build for Assetto Corsa.
+<p align="center">I’m BMTB, from Detroit, Michigan. I produce music, develop for FiveM, and build for Assetto Corsa.</p>
 
-Production credits include “She In Love wit a Dumper” with Ball Hog g, “Yo Baby” with 414JungleBaby on 300 Entertainment, and “Rich Guys” with BabyChiefDoit and Babyface Ray, plus work for BabyTron, Skilla Baby, Mozzy, Cash Kidd, and Rockout Danny. The verified list is on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits).
+<p align="center">Production credits include “She In Love wit a Dumper” with Ball Hog g, “Yo Baby” with 414JungleBaby on 300 Entertainment, and “Rich Guys” with BabyChiefDoit and Babyface Ray, plus work for BabyTron, Skilla Baby, Mozzy, Cash Kidd, and Rockout Danny. The verified list is on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a>.</p>
 
-FiveM is seven months in as of October 2026. I develop scripts and create custom skins and chains.
+<p align="center">FiveM is seven months in as of October 2026. I develop scripts and create custom skins and chains.</p>
 
-Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with a live session on TikTok every day. Mods and PP filters are in development.
+<p align="center">Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with a live session on TikTok every day. Mods and PP filters are in development.</p>
 
-## 🔗 Links
+<h2 align="center">🔗 Links</h2>
 
-**🎵 Beats**
+<p align="center"><strong>🎵 Beats</strong></p>
 
 | Place | Link |
-| --- | --- |
+| :---: | :---: |
 | 🛒 Buy beats here | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
 | 🥁 Drumkits | [bankrollmadethisbeat.com/drumkits](https://bankrollmadethisbeat.com/drumkits.html) |
 | 🔁 Loopkits | [bankrollmadethisbeat.com/loopkits](https://bankrollmadethisbeat.com/loopkits.html) |
@@ -79,68 +81,68 @@ Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with 
 | ✉️ Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
 | 🐙 GitHub | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
 
-**🎮 FiveM scripts**
+<p align="center"><strong>🎮 FiveM scripts</strong></p>
 
 | Place | Link |
-| --- | --- |
+| :---: | :---: |
 | 🌐 Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
 | 📖 Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
 | 📺 BMTB Scripts YouTube | [@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
 | 💬 Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
 
-**🏎️ Assetto Corsa**
+<p align="center"><strong>🏎️ Assetto Corsa</strong></p>
 
 | Place | Link |
-| --- | --- |
+| :---: | :---: |
 | 📺 YouTube | [@BMTBmods](https://www.youtube.com/@BMTBmods) |
 | 🧡 Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
 | 💬 Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
 
-## 📬 Open to
+<h2 align="center">📬 Open to</h2>
 
 | Area | Details |
-| --- | --- |
+| :---: | :---: |
 | 🎵 Beats | Leases and exclusives from the BeatStars player on the beat store |
 | 🥁 Kits | Free drumkits and loopkits, plus the $20 Stashkit on Gumroad |
 | 🎮 FiveM | ESX and QBCore scripts, UI, and server systems |
 | 🏆 Placements | Credit BankrollMadeThisBeat. Loop terms are on the loopkit page |
 
-## 📦 What I ship
+<h2 align="center">📦 What I ship</h2>
 
-**🎵 Beat store**
+<p align="center"><strong>🎵 Beat store</strong></p>
 
-The public site for the catalog, licenses, drumkits, and loopkits.
+<p align="center">The public site for the catalog, licenses, drumkits, and loopkits.</p>
 
 | | |
-| --- | --- |
+| :---: | :---: |
 | Stack | HTML, CSS, JavaScript, GitHub Pages |
 | Store | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
 | Repo | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
 
-**🎮 FiveM scripts**
+<p align="center"><strong>🎮 FiveM scripts</strong></p>
 
-Server scripts and store pages for ESX Legacy and QBCore. Free and premium releases live in their own repos.
+<p align="center">Server scripts and store pages for ESX Legacy and QBCore. Free and premium releases live in their own repos.</p>
 
 | | |
-| --- | --- |
+| :---: | :---: |
 | Stack | Lua, JavaScript, HTML, CSS, ESX, QBCore |
 | Store | [bmtbscripts.online](https://www.bmtbscripts.online/) |
 | Examples | [Loading screen](https://github.com/bankrollmadethisbeat/bmtb-loading-screen) · [DLSS installer](https://github.com/bankrollmadethisbeat/BMTB-DLSS-INSTALLER) · [Chopshop](https://github.com/bankrollmadethisbeat/bmtb-chopshop-qbcore) |
 
-**🥁 Sound kits**
+<p align="center"><strong>🥁 Sound kits</strong></p>
 
 | Kit | Where |
-| --- | --- |
+| :---: | :---: |
 | Bankroll Stashkit 2025 | [$20 on Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit) |
 | Welcome 2 Detroit Vol. 1–3, MegaBank, Dead Zone | [Free on the drumkits page](https://bankrollmadethisbeat.com/drumkits.html) |
 | Loops Vol. 1, Vol. 2, Ghetto Gospel, Michigan Mozart | [Free on the loopkits page](https://bankrollmadethisbeat.com/loopkits.html) |
 
-Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A major or local placement or sale also needs a split. DM [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) or email [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) before release.
+<p align="center">Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A major or local placement or sale also needs a split. DM <a href="https://www.instagram.com/bankrollmadethisbeat/">@bankrollmadethisbeat</a> or email <a href="mailto:bankrollmadethisbeat@gmail.com">bankrollmadethisbeat@gmail.com</a> before release.</p>
 
-## 🔥 Now
+<h2 align="center">🔥 Now</h2>
 
-**🎵 Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), Milwaukee beats for sale on [@BMTB313](https://www.youtube.com/@BMTB313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+<p align="center"><strong>🎵 Beats</strong> — buy beats at <a href="https://bankrollmadethisbeat.com/">bankrollmadethisbeat.com</a>, live cookups on <a href="https://www.youtube.com/@BankrollMadeThisBeat313">@BankrollMadeThisBeat313</a>, Milwaukee beats for sale on <a href="https://www.youtube.com/@BMTB313">@BMTB313</a>, Stashkit on <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Gumroad</a>, credits on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a></p>
 
-**🎮 FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [YouTube](https://www.youtube.com/@BMTBScripts), [Discord](https://discord.gg/EEYH9gzsAJ)
+<p align="center"><strong>🎮 FiveM scripts</strong> — <a href="https://www.bmtbscripts.online/">bmtbscripts.online</a>, <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">docs</a>, <a href="https://www.youtube.com/@BMTBScripts">YouTube</a>, <a href="https://discord.gg/EEYH9gzsAJ">Discord</a></p>
 
-**🏎️ Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
+<p align="center"><strong>🏎️ Assetto Corsa</strong> — <a href="https://www.youtube.com/@BMTBmods">YouTube</a>, <a href="https://www.patreon.com/c/bmtbmods">Patreon</a>, and <a href="https://discord.gg/c9chbpmzqt">Discord</a></p>
