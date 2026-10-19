@@ -11,13 +11,15 @@
   <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
   <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube scripts" /></a>
   <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon_Assetto_Corsa-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
 </p>
 
 <p align="center">
   <a href="https://bankrollmadethisbeat.com/">Beat Store</a> ·
   <a href="https://www.bmtbscripts.online/">Script Store</a> ·
   <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a> ·
-  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a> ·
+  <a href="https://www.patreon.com/c/bmtbmods">Assetto Corsa Patreon</a>
 </p>
 
 ---
@@ -42,6 +44,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 | YouTube, scripts | [youtube.com/@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
 | YouTube, beats | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
 | Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
+| Assetto Corsa Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
 | Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
 | Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
 | GitHub store repo | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
@@ -92,6 +95,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 - Beats and kits on [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/)
 - Stashkit checkout on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit)
 - FiveM scripts on [bmtbscripts.online](https://www.bmtbscripts.online/)
+- Assetto Corsa mods on [BMTB MODS Patreon](https://www.patreon.com/c/bmtbmods)
 - Placements listed on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
 ## GitHub
