@@ -4,21 +4,21 @@
 
 <p align="center">
   <strong>BMTB</strong><br/>
-  Super Music Producer · FiveM Developer · Assetto Corsa Modder · Vibe AI Coder
+  🎵 Super Music Producer · 🎮 FiveM Developer · 🏎️ Assetto Corsa Modder · ✨ Vibe AI Coder
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Super_Music_Producer-EAB308?style=for-the-badge" alt="Super Music Producer" />
-  <img src="https://img.shields.io/badge/FiveM_Developer-EAB308?style=for-the-badge" alt="FiveM Developer" />
-  <img src="https://img.shields.io/badge/Assetto_Corsa_Modder-EAB308?style=for-the-badge" alt="Assetto Corsa Modder" />
-  <img src="https://img.shields.io/badge/Vibe_AI_Coder-EAB308?style=for-the-badge" alt="Vibe AI Coder" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_Super_Music_Producer-EAB308?style=for-the-badge" alt="Super Music Producer" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_FiveM_Developer-EAB308?style=for-the-badge" alt="FiveM Developer" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%8E_Assetto_Corsa_Modder-EAB308?style=for-the-badge" alt="Assetto Corsa Modder" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Vibe_AI_Coder-EAB308?style=for-the-badge" alt="Vibe AI Coder" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Self--Taught-YouTube%20%26%20AI-EAB308?style=flat-square&logo=youtube&logoColor=white" alt="Self-Taught YouTube and AI" />
 </p>
 
-### Beats
+### 🎵 Beats
 
 <p align="center">
   <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats_Here-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-EAB308?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### FiveM scripts
+### 🎮 FiveM scripts
 
 <p align="center">
   <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
@@ -39,7 +39,7 @@
   <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-EAB308?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
-### Assetto Corsa
+### 🏎️ Assetto Corsa
 
 <p align="center">
   <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
@@ -49,61 +49,61 @@
 
 ---
 
-## About
+## 👋 About
 
-BMTB from Detroit’s Eastside: Super Music Producer, FiveM Developer, Assetto Corsa Modder, and Vibe AI Coder. The beat store is leases, exclusives, free drumkits, and free loopkits. The script store is gameplay systems, UI, and server tools sold as BMTB Scripts.
+📍 BMTB from Detroit’s Eastside: 🎵 Super Music Producer, 🎮 FiveM Developer, 🏎️ Assetto Corsa Modder, and ✨ Vibe AI Coder. The beat store is leases, exclusives, free drumkits, and free loopkits. The script store is gameplay systems, UI, and server tools sold as BMTB Scripts.
 
 Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are free downloads from the beat store.
 
-## Links
+## 🔗 Links
 
-**Beats**
-
-| Place | Link |
-| --- | --- |
-| Buy beats here | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
-| Drumkits | [bankrollmadethisbeat.com/drumkits](https://bankrollmadethisbeat.com/drumkits.html) |
-| Loopkits | [bankrollmadethisbeat.com/loopkits](https://bankrollmadethisbeat.com/loopkits.html) |
-| BeatStars | [beatstars.com/bankrollmadethisbeat313](https://www.beatstars.com/bankrollmadethisbeat313) |
-| Gumroad | [bankrollmadethisbeat.gumroad.com](https://bankrollmadethisbeat.gumroad.com/) |
-| Stashkit 2025, $20 | [Buy Bankroll Stashkit](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit) |
-| YouTube | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
-| Live cookups and tutorials | [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313) |
-| Milwaukee beat channel, beats for sale | [@BMTB313](https://www.youtube.com/@BMTB313) |
-| Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
-| Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
-| Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
-| GitHub | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
-
-**FiveM scripts**
+**🎵 Beats**
 
 | Place | Link |
 | --- | --- |
-| Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
-| Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
-| BMTB Scripts YouTube | [@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
-| Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
+| 🛒 Buy beats here | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
+| 🥁 Drumkits | [bankrollmadethisbeat.com/drumkits](https://bankrollmadethisbeat.com/drumkits.html) |
+| 🔁 Loopkits | [bankrollmadethisbeat.com/loopkits](https://bankrollmadethisbeat.com/loopkits.html) |
+| 🌟 BeatStars | [beatstars.com/bankrollmadethisbeat313](https://www.beatstars.com/bankrollmadethisbeat313) |
+| 💳 Gumroad | [bankrollmadethisbeat.gumroad.com](https://bankrollmadethisbeat.gumroad.com/) |
+| 💰 Stashkit 2025, $20 | [Buy Bankroll Stashkit](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit) |
+| 📺 YouTube | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
+| 🔴 Live cookups and tutorials | [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313) |
+| 🏙️ Milwaukee beat channel, beats for sale | [@BMTB313](https://www.youtube.com/@BMTB313) |
+| 📸 Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
+| 🏆 Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
+| ✉️ Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
+| 🐙 GitHub | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
 
-**Assetto Corsa**
+**🎮 FiveM scripts**
 
 | Place | Link |
 | --- | --- |
-| YouTube | [@BMTBmods](https://www.youtube.com/@BMTBmods) |
-| Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
-| Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
+| 🌐 Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
+| 📖 Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
+| 📺 BMTB Scripts YouTube | [@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
+| 💬 Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
 
-## Open to
+**🏎️ Assetto Corsa**
+
+| Place | Link |
+| --- | --- |
+| 📺 YouTube | [@BMTBmods](https://www.youtube.com/@BMTBmods) |
+| 🧡 Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
+| 💬 Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
+
+## 📬 Open to
 
 | Area | Details |
 | --- | --- |
-| Beats | Leases and exclusives from the BeatStars player on the beat store |
-| Kits | Free drumkits and loopkits, plus the $20 Stashkit on Gumroad |
-| FiveM | ESX and QBCore scripts, UI, and server systems |
-| Placements | Credit BankrollMadeThisBeat. Loop terms are on the loopkit page |
+| 🎵 Beats | Leases and exclusives from the BeatStars player on the beat store |
+| 🥁 Kits | Free drumkits and loopkits, plus the $20 Stashkit on Gumroad |
+| 🎮 FiveM | ESX and QBCore scripts, UI, and server systems |
+| 🏆 Placements | Credit BankrollMadeThisBeat. Loop terms are on the loopkit page |
 
-## What I ship
+## 📦 What I ship
 
-**Beat store**
+**🎵 Beat store**
 
 The public site for the catalog, licenses, drumkits, and loopkits.
 
@@ -113,7 +113,7 @@ The public site for the catalog, licenses, drumkits, and loopkits.
 | Store | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
 | Repo | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
 
-**FiveM scripts**
+**🎮 FiveM scripts**
 
 Server scripts and store pages for ESX Legacy and QBCore. Free and premium releases live in their own repos.
 
@@ -123,7 +123,7 @@ Server scripts and store pages for ESX Legacy and QBCore. Free and premium relea
 | Store | [bmtbscripts.online](https://www.bmtbscripts.online/) |
 | Examples | [Loading screen](https://github.com/bankrollmadethisbeat/bmtb-loading-screen) · [DLSS installer](https://github.com/bankrollmadethisbeat/BMTB-DLSS-INSTALLER) · [Chopshop](https://github.com/bankrollmadethisbeat/bmtb-chopshop-qbcore) |
 
-**Sound kits**
+**🥁 Sound kits**
 
 | Kit | Where |
 | --- | --- |
@@ -133,10 +133,10 @@ Server scripts and store pages for ESX Legacy and QBCore. Free and premium relea
 
 Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A major or local placement or sale also needs a split. DM [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) or email [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) before release.
 
-## Now
+## 🔥 Now
 
-**Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), Milwaukee beats for sale on [@BMTB313](https://www.youtube.com/@BMTB313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+**🎵 Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), Milwaukee beats for sale on [@BMTB313](https://www.youtube.com/@BMTB313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
-**FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [YouTube](https://www.youtube.com/@BMTBScripts), [Discord](https://discord.gg/EEYH9gzsAJ)
+**🎮 FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [YouTube](https://www.youtube.com/@BMTBScripts), [Discord](https://discord.gg/EEYH9gzsAJ)
 
-**Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
+**🏎️ Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
