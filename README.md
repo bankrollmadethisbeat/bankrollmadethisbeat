@@ -66,6 +66,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
       <strong>🎵 Beats</strong><br/><br/>
       <a href="https://bankrollmadethisbeat.com/">Buy beats here</a><br/>
       <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a><br/>
@@ -82,6 +83,7 @@
       <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
     </td>
     <td align="center" valign="top" width="33%">
+      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
       <strong>🎮 FiveM scripts</strong><br/><br/>
       <a href="https://www.bmtbscripts.online/">Site</a><br/>
       <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a><br/>
@@ -89,6 +91,7 @@
       <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
     </td>
     <td align="center" valign="top" width="34%">
+      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
       <strong>🏎️ Assetto Corsa</strong><br/><br/>
       <a href="https://www.youtube.com/@BMTBmods">YouTube</a><br/>
       <a href="https://www.patreon.com/c/bmtbmods">Patreon</a><br/>
