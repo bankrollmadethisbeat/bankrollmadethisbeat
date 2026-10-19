@@ -1,50 +1,57 @@
 <a href="https://bankrollmadethisbeat.com/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FF2B2B&center=true&vCenter=true&width=760&lines=BankrollMadeThisBeat;Detroit+beats%2C+kits%2C+and+scripts;BMTB" alt="BankrollMadeThisBeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=BMTB;Super+Music+Producer;FiveM+Developer;Assetto+Corsa+Modder;Vibe+AI+Coder" alt="BMTB" />
 </a>
 
 <p align="center">
-  Detroit producer and FiveM developer.<br/>
-  Beats, drumkits, loopkits, and server scripts under BankrollMadeThisBeat.
+  <strong>BMTB</strong><br/>
+  Super Music Producer · FiveM Developer · Assetto Corsa Modder · Vibe AI Coder
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Self--Taught-YouTube%20%26%20AI-7C3AED?style=flat-square&logo=youtube&logoColor=white" alt="Self-Taught YouTube and AI" />
+  <img src="https://img.shields.io/badge/Super_Music_Producer-EAB308?style=for-the-badge" alt="Super Music Producer" />
+  <img src="https://img.shields.io/badge/FiveM_Developer-EAB308?style=for-the-badge" alt="FiveM Developer" />
+  <img src="https://img.shields.io/badge/Assetto_Corsa_Modder-EAB308?style=for-the-badge" alt="Assetto Corsa Modder" />
+  <img src="https://img.shields.io/badge/Vibe_AI_Coder-EAB308?style=for-the-badge" alt="Vibe AI Coder" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Self--Taught-YouTube%20%26%20AI-EAB308?style=flat-square&logo=youtube&logoColor=white" alt="Self-Taught YouTube and AI" />
 </p>
 
 ### Beats
 
 <p align="center">
-  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats_Here-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
-  <a href="https://www.beatstars.com/bankrollmadethisbeat313"><img src="https://img.shields.io/badge/BeatStars-FF2B2B?style=for-the-badge&logo=beats&logoColor=white" alt="BeatStars" /></a>
-  <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF2B2B?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
-  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
-  <a href="https://www.youtube.com/@BankrollMadeThisBeat313"><img src="https://img.shields.io/badge/Live_Cookups-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Live cookups and tutorials" /></a>
-  <a href="https://www.youtube.com/@BMTB313"><img src="https://img.shields.io/badge/Milwaukee_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Milwaukee beat channel, beats for sale" /></a>
-  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats_Here-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
+  <a href="https://www.beatstars.com/bankrollmadethisbeat313"><img src="https://img.shields.io/badge/BeatStars-EAB308?style=for-the-badge&logo=beats&logoColor=white" alt="BeatStars" /></a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-EAB308?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
+  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
+  <a href="https://www.youtube.com/@BankrollMadeThisBeat313"><img src="https://img.shields.io/badge/Live_Cookups-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="Live cookups and tutorials" /></a>
+  <a href="https://www.youtube.com/@BMTB313"><img src="https://img.shields.io/badge/Milwaukee_Beats-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="Milwaukee beat channel, beats for sale" /></a>
+  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-EAB308?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### FiveM scripts
 
 <p align="center">
-  <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
-  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/Script_Docs-111111?style=for-the-badge&logo=gitbook&logoColor=white" alt="BMTB Scripts Docs" /></a>
-  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/BMTB_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="BMTB Scripts YouTube" /></a>
-  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
+  <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-EAB308?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
+  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/Script_Docs-EAB308?style=for-the-badge&logo=gitbook&logoColor=white" alt="BMTB Scripts Docs" /></a>
+  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/BMTB_Scripts-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="BMTB Scripts YouTube" /></a>
+  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-EAB308?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
 ### Assetto Corsa
 
 <p align="center">
-  <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
-  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
-  <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
+  <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-EAB308?style=for-the-badge&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
+  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon-EAB308?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
+  <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord-EAB308?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
 </p>
 
 ---
 
 ## About
 
-I produce from Detroit’s Eastside and I build FiveM scripts for ESX and QBCore servers. The beat store is leases, exclusives, free drumkits, and free loopkits. The script store is gameplay systems, UI, and server tools sold as BMTB Scripts.
+BMTB from Detroit’s Eastside: Super Music Producer, FiveM Developer, Assetto Corsa Modder, and Vibe AI Coder. The beat store is leases, exclusives, free drumkits, and free loopkits. The script store is gameplay systems, UI, and server tools sold as BMTB Scripts.
 
 Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are free downloads from the beat store.
 
@@ -137,17 +144,17 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bankrollmadethisbeat&show_icons=true&hide_border=true&bg_color=000000&title_color=ff2b2b&icon_color=ff2b2b&text_color=ffffff" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bankrollmadethisbeat&show_icons=true&hide_border=true&bg_color=000000&title_color=eab308&icon_color=eab308&text_color=ffffff" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankrollmadethisbeat&layout=compact&hide_border=true&bg_color=000000&title_color=ff2b2b&text_color=ffffff" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankrollmadethisbeat&layout=compact&hide_border=true&bg_color=000000&title_color=eab308&text_color=ffffff" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bankrollmadethisbeat&theme=onedark&no-frame=true&no-bg=true&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bankrollmadethisbeat&no-frame=true&column=4&bg_color=000000&title_color=EAB308&text_color=ffffff&icon_color=EAB308" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bankrollmadethisbeat&bg_color=000000&color=ffffff&line=ff2b2b&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bankrollmadethisbeat&bg_color=000000&color=ffffff&line=eab308&point=FFD60A&area=true&hide_border=true" alt="Contribution graph" />
 </p>
