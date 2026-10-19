@@ -7,6 +7,10 @@
   Beats, drumkits, loopkits, and server scripts under BankrollMadeThisBeat.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Self--Taught-YouTube%20%26%20AI-7C3AED?style=flat-square&logo=youtube&logoColor=white" alt="Self-Taught YouTube and AI" />
+</p>
+
 ### Beats
 
 <p align="center">
