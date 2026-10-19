@@ -96,28 +96,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">📬 Open to</h2>
-
-<p align="center">🎵 Leases and exclusives from the BeatStars player on the beat store.</p>
-<p align="center">🥁 Free drumkits and loopkits, plus the $20 Stashkit on Gumroad.</p>
-<p align="center">🎮 ESX and QBCore scripts, UI, and server systems.</p>
-<p align="center">🏆 Credit BankrollMadeThisBeat. Loop terms are on the loopkit page.</p>
-
-<h2 align="center">📦 What I ship</h2>
-
-<p align="center"><strong>🎵 Beat store</strong><br/>The public site for the catalog, licenses, drumkits, and loopkits.<br/>HTML, CSS, JavaScript, GitHub Pages · <a href="https://bankrollmadethisbeat.com/">Store</a> · <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">Repo</a></p>
-
-<p align="center"><strong>🎮 FiveM scripts</strong><br/>Server scripts and store pages for ESX Legacy and QBCore. Free and premium releases live in their own repos.<br/>Lua, JavaScript, HTML, CSS, ESX, QBCore · <a href="https://www.bmtbscripts.online/">Store</a> · <a href="https://github.com/bankrollmadethisbeat/bmtb-loading-screen">Loading screen</a> · <a href="https://github.com/bankrollmadethisbeat/BMTB-DLSS-INSTALLER">DLSS installer</a> · <a href="https://github.com/bankrollmadethisbeat/bmtb-chopshop-qbcore">Chopshop</a></p>
-
-<p align="center"><strong>🥁 Sound kits</strong><br/><a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Bankroll Stashkit 2025, $20 on Gumroad</a><br/><a href="https://bankrollmadethisbeat.com/drumkits.html">Welcome 2 Detroit Vol. 1–3, MegaBank, and Dead Zone</a><br/><a href="https://bankrollmadethisbeat.com/loopkits.html">Loops Vol. 1, Vol. 2, Ghetto Gospel, and Michigan Mozart</a></p>
-
-<p align="center">Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A major or local placement or sale also needs a split. DM <a href="https://www.instagram.com/bankrollmadethisbeat/">@bankrollmadethisbeat</a> or email <a href="mailto:bankrollmadethisbeat@gmail.com">bankrollmadethisbeat@gmail.com</a> before release.</p>
-
-<h2 align="center">🔥 Now</h2>
-
-<p align="center"><strong>🎵 Beats</strong> — buy beats at <a href="https://bankrollmadethisbeat.com/">bankrollmadethisbeat.com</a>, live cookups on <a href="https://www.youtube.com/@BankrollMadeThisBeat313">@BankrollMadeThisBeat313</a>, Milwaukee beats for sale on <a href="https://www.youtube.com/@BMTB313">@BMTB313</a>, Stashkit on <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Gumroad</a>, credits on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a></p>
-
-<p align="center"><strong>🎮 FiveM scripts</strong> — <a href="https://www.bmtbscripts.online/">bmtbscripts.online</a>, <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">docs</a>, <a href="https://www.youtube.com/@BMTBScripts">YouTube</a>, <a href="https://discord.gg/EEYH9gzsAJ">Discord</a></p>
-
-<p align="center"><strong>🏎️ Assetto Corsa</strong> — <a href="https://www.youtube.com/@BMTBmods">YouTube</a>, <a href="https://www.patreon.com/c/bmtbmods">Patreon</a>, and <a href="https://discord.gg/c9chbpmzqt">Discord</a></p>
