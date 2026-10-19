@@ -55,7 +55,7 @@
 
 <p align="center">I’m BMTB, from Detroit, Michigan. I produce music, develop for FiveM, and build for Assetto Corsa.</p>
 
-<p align="center">I have been producing for 10+ years. Credits include “She In Love wit a Dumper” with Ball Hog q, “Yo Baby” with 414JungleBaby, and “Rich Guys” with BabyChiefDoit and Babyfxce E, plus records with BabyTron, Skilla Baby, Mozzy, and Rockout Danny. The full list is on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a>.</p>
+<p align="center">I have been producing for 10+ years. My biggest credit is “She In Love wit a Dumper” with Ball Hog q. The full list is on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a>.</p>
 
 <p align="center">FiveM is seven months in as of October 2026. The scripts run on ESX and QBCore, with ESX as the main framework. Custom skins and chains, clothing and jewelry for FiveM, are on <a href="https://www.bmtbscripts.online/">bmtbscripts.online</a>.</p>
 
