@@ -107,7 +107,3 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bankrollmadethisbeat&bg_color=000000&color=ffffff&line=ff2b2b&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
