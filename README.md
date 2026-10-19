@@ -51,13 +51,13 @@
 
 ## 👋 About
 
-I’m BMTB, from Detroit, Michigan.
+I’m BMTB, from Detroit, Michigan. I produce music, develop for FiveM, and build for Assetto Corsa.
 
-I produce. Credits include “She In Love wit a Dumper” with Ball Hog g, “Yo Baby” with 414JungleBaby on 300 Entertainment, and “Rich Guys” with BabyChiefDoit and Babyface Ray. I have also produced for BabyTron, Skilla Baby, Mozzy, Cash Kidd, and Rockout Danny. Verified credits are on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits).
+Production credits include “She In Love wit a Dumper” with Ball Hog g, “Yo Baby” with 414JungleBaby on 300 Entertainment, and “Rich Guys” with BabyChiefDoit and Babyface Ray, plus work for BabyTron, Skilla Baby, Mozzy, Cash Kidd, and Rockout Danny. The verified list is on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits).
 
-I have been developing FiveM for 7 months as of October 2026. I build the scripts, and I make custom skins and chains.
+FiveM is seven months in as of October 2026. I develop scripts and create custom skins and chains.
 
-On Assetto Corsa I run a Moza R5, and I drive a lot. I go live on TikTok every day. Mods and PP filters are coming soon.
+Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with a live session on TikTok every day. Mods and PP filters are in development.
 
 ## 🔗 Links
 
