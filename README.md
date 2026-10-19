@@ -63,39 +63,34 @@
 
 <h2 align="center">🔗 Links</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
-      <strong>🎵 Beats</strong><br/><br/>
-      <a href="https://bankrollmadethisbeat.com/">Buy beats here</a><br/>
-      <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a><br/>
-      <a href="https://bankrollmadethisbeat.com/loopkits.html">Loopkits</a><br/>
-      <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a><br/>
-      <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a><br/>
-      <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Stashkit, $20</a><br/>
-      <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g">YouTube</a><br/>
-      <a href="https://www.youtube.com/@BankrollMadeThisBeat313">Live cookups</a><br/>
-      <a href="https://www.youtube.com/@BMTB313">Milwaukee beats</a><br/>
-      <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a><br/>
-      <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso</a><br/>
-      <a href="mailto:bankrollmadethisbeat@gmail.com">Email</a><br/>
-      <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
-      <strong>🎮 FiveM scripts</strong><br/><br/>
-      <a href="https://www.bmtbscripts.online/">Site</a><br/>
-      <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a><br/>
-      <a href="https://www.youtube.com/@BMTBScripts">YouTube</a><br/>
-      <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
-    </td>
-    <td align="center" valign="top" width="34%">
-      <img src="https://raw.githubusercontent.com/bankrollmadethisbeat/bankrollmadethisbeat/main/spacer.png" width="220" height="1" alt=""><br/>
-      <strong>🏎️ Assetto Corsa</strong><br/><br/>
-      <a href="https://www.youtube.com/@BMTBmods">YouTube</a><br/>
-      <a href="https://www.patreon.com/c/bmtbmods">Patreon</a><br/>
-      <a href="https://discord.gg/c9chbpmzqt">Discord</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>🎵 Beats</strong><br/>
+  <a href="https://bankrollmadethisbeat.com/">Buy beats here</a><br/>
+  <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a><br/>
+  <a href="https://bankrollmadethisbeat.com/loopkits.html">Loopkits</a><br/>
+  <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a><br/>
+  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a><br/>
+  <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Stashkit, $20</a><br/>
+  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g">YouTube</a><br/>
+  <a href="https://www.youtube.com/@BankrollMadeThisBeat313">Live cookups</a><br/>
+  <a href="https://www.youtube.com/@BMTB313">Milwaukee beats</a><br/>
+  <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a><br/>
+  <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso</a><br/>
+  <a href="mailto:bankrollmadethisbeat@gmail.com">Email</a><br/>
+  <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
+</p>
+
+<p align="center">
+  <strong>🎮 FiveM scripts</strong><br/>
+  <a href="https://www.bmtbscripts.online/">Site</a><br/>
+  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a><br/>
+  <a href="https://www.youtube.com/@BMTBScripts">YouTube</a><br/>
+  <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
+</p>
+
+<p align="center">
+  <strong>🏎️ Assetto Corsa</strong><br/>
+  <a href="https://www.youtube.com/@BMTBmods">YouTube</a><br/>
+  <a href="https://www.patreon.com/c/bmtbmods">Patreon</a><br/>
+  <a href="https://discord.gg/c9chbpmzqt">Discord</a>
+</p>
