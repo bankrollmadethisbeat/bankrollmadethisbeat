@@ -57,7 +57,7 @@
 
 <p align="center">I have been producing for 10+ years. Muso lists 183 verified credits under BankrollMadeThisBeat, as a producer and musician. That includes “She In Love wit a Dumper” with Ball Hog q, “Yo Baby” with 414JungleBaby, and “Rich Guys” with BabyChiefDoit and Babyfxce E, plus records with BabyTron, Skilla Baby, Mozzy, and Rockout Danny. The full list is on <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso.AI</a>.</p>
 
-<p align="center">FiveM is seven months in as of October 2026. I develop scripts and create custom skins and chains.</p>
+<p align="center">FiveM is seven months in as of October 2026. The scripts run on ESX and QBCore, with ESX as the main framework. Custom skins and chains, clothing and jewelry for FiveM, are on <a href="https://www.bmtbscripts.online/">bmtbscripts.online</a>.</p>
 
 <p align="center">Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with a live session on TikTok every day. Mods and PP filters are in development.</p>
 
