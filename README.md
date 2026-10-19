@@ -63,55 +63,39 @@
 
 <h2 align="center">🔗 Links</h2>
 
-<p align="center"><strong>🎵 Beats</strong></p>
-<p align="center">
-  <a href="https://bankrollmadethisbeat.com/">Buy beats here</a>
-  &nbsp;·&nbsp;
-  <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a>
-  &nbsp;·&nbsp;
-  <a href="https://bankrollmadethisbeat.com/loopkits.html">Loopkits</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a>
-  &nbsp;·&nbsp;
-  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a>
-  &nbsp;·&nbsp;
-  <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Stashkit, $20</a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g">YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@BankrollMadeThisBeat313">Live cookups</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@BMTB313">Milwaukee beats</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:bankrollmadethisbeat@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
-</p>
-
-<p align="center"><strong>🎮 FiveM scripts</strong></p>
-<p align="center">
-  <a href="https://www.bmtbscripts.online/">Site</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@BMTBScripts">YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
-</p>
-
-<p align="center"><strong>🏎️ Assetto Corsa</strong></p>
-<p align="center">
-  <a href="https://www.youtube.com/@BMTBmods">YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.patreon.com/c/bmtbmods">Patreon</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.gg/c9chbpmzqt">Discord</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <strong>🎵 Beats</strong><br/><br/>
+      <a href="https://bankrollmadethisbeat.com/">Buy beats here</a><br/>
+      <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a><br/>
+      <a href="https://bankrollmadethisbeat.com/loopkits.html">Loopkits</a><br/>
+      <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a><br/>
+      <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a><br/>
+      <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Stashkit, $20</a><br/>
+      <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g">YouTube</a><br/>
+      <a href="https://www.youtube.com/@BankrollMadeThisBeat313">Live cookups</a><br/>
+      <a href="https://www.youtube.com/@BMTB313">Milwaukee beats</a><br/>
+      <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a><br/>
+      <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso</a><br/>
+      <a href="mailto:bankrollmadethisbeat@gmail.com">Email</a><br/>
+      <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
+    </td>
+    <td align="center" valign="top">
+      <strong>🎮 FiveM scripts</strong><br/><br/>
+      <a href="https://www.bmtbscripts.online/">Site</a><br/>
+      <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a><br/>
+      <a href="https://www.youtube.com/@BMTBScripts">YouTube</a><br/>
+      <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
+    </td>
+    <td align="center" valign="top">
+      <strong>🏎️ Assetto Corsa</strong><br/><br/>
+      <a href="https://www.youtube.com/@BMTBmods">YouTube</a><br/>
+      <a href="https://www.patreon.com/c/bmtbmods">Patreon</a><br/>
+      <a href="https://discord.gg/c9chbpmzqt">Discord</a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📬 Open to</h2>
 
