@@ -1,19 +1,18 @@
 <p align="center">
   <a href="https://bankrollmadethisbeat.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=BMTB;Super+Music+Producer;FiveM+Developer;Assetto+Corsa+Modder;Vibe+AI+Coder" alt="BMTB" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=28&pause=900&color=FFD60A&center=true&vCenter=true&width=760&lines=BMTB;Super+Music+Producer;FiveM+Developer;Assetto+Corsa+Modder" alt="BMTB" />
   </a>
 </p>
 
 <p align="center">
   <strong>BMTB</strong><br/>
-  🎵 Super Music Producer · 🎮 FiveM Developer · 🏎️ Assetto Corsa Modder · ✨ Vibe AI Coder
+  🎵 Super Music Producer · 🎮 FiveM Developer · 🏎️ Assetto Corsa Modder
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8E%B5_Super_Music_Producer-EAB308?style=flat" alt="Super Music Producer" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE_FiveM_Developer-EAB308?style=flat" alt="FiveM Developer" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%8E_Assetto_Corsa_Modder-EAB308?style=flat" alt="Assetto Corsa Modder" />
-  <img src="https://img.shields.io/badge/%E2%9C%A8_Vibe_AI_Coder-EAB308?style=flat" alt="Vibe AI Coder" />
 </p>
 
 <p align="center">
