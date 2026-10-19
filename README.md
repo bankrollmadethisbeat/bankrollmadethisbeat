@@ -63,34 +63,36 @@
 
 <h2 align="center">🔗 Links</h2>
 
+<p align="center"><strong>🎵 Beats</strong></p>
 <p align="center">
-  <strong>🎵 Beats</strong><br/>
-  <a href="https://bankrollmadethisbeat.com/">Buy beats here</a><br/>
-  <a href="https://bankrollmadethisbeat.com/drumkits.html">Drumkits</a><br/>
-  <a href="https://bankrollmadethisbeat.com/loopkits.html">Loopkits</a><br/>
-  <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a><br/>
-  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a><br/>
-  <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit">Stashkit, $20</a><br/>
-  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g">YouTube</a><br/>
-  <a href="https://www.youtube.com/@BankrollMadeThisBeat313">Live cookups</a><br/>
-  <a href="https://www.youtube.com/@BMTB313">Milwaukee beats</a><br/>
-  <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a><br/>
-  <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits">Muso</a><br/>
-  <a href="mailto:bankrollmadethisbeat@gmail.com">Email</a><br/>
-  <a href="https://github.com/bankrollmadethisbeat/BMTB-Store">GitHub</a>
+  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats-EAB308?style=flat&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
+  <a href="https://bankrollmadethisbeat.com/drumkits.html"><img src="https://img.shields.io/badge/Drumkits-EAB308?style=flat&logoColor=white" alt="Drumkits" /></a>
+  <a href="https://bankrollmadethisbeat.com/loopkits.html"><img src="https://img.shields.io/badge/Loopkits-EAB308?style=flat&logoColor=white" alt="Loopkits" /></a>
+  <a href="https://www.beatstars.com/bankrollmadethisbeat313"><img src="https://img.shields.io/badge/BeatStars-EAB308?style=flat&logo=beats&logoColor=white" alt="BeatStars" /></a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-EAB308?style=flat&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit"><img src="https://img.shields.io/badge/Stashkit_$20-EAB308?style=flat&logo=gumroad&logoColor=white" alt="Stashkit, $20" /></a>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-EAB308?style=flat&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
+  <a href="https://www.youtube.com/@BankrollMadeThisBeat313"><img src="https://img.shields.io/badge/Live_Cookups-EAB308?style=flat&logo=youtube&logoColor=white" alt="Live cookups" /></a>
+  <a href="https://www.youtube.com/@BMTB313"><img src="https://img.shields.io/badge/Milwaukee_Beats-EAB308?style=flat&logo=youtube&logoColor=white" alt="Milwaukee beats" /></a>
+  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-EAB308?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits"><img src="https://img.shields.io/badge/Muso-EAB308?style=flat&logoColor=white" alt="Muso" /></a>
+  <a href="mailto:bankrollmadethisbeat@gmail.com"><img src="https://img.shields.io/badge/Email-EAB308?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/bankrollmadethisbeat/BMTB-Store"><img src="https://img.shields.io/badge/GitHub-EAB308?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<p align="center"><strong>🎮 FiveM scripts</strong></p>
 <p align="center">
-  <strong>🎮 FiveM scripts</strong><br/>
-  <a href="https://www.bmtbscripts.online/">Site</a><br/>
-  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">Docs</a><br/>
-  <a href="https://www.youtube.com/@BMTBScripts">YouTube</a><br/>
-  <a href="https://discord.gg/EEYH9gzsAJ">Discord</a>
+  <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Site-EAB308?style=flat&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
+  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/Docs-EAB308?style=flat&logo=gitbook&logoColor=white" alt="Docs" /></a>
+  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube-EAB308?style=flat&logo=youtube&logoColor=white" alt="BMTB Scripts YouTube" /></a>
+  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-EAB308?style=flat&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
+<p align="center"><strong>🏎️ Assetto Corsa</strong></p>
 <p align="center">
-  <strong>🏎️ Assetto Corsa</strong><br/>
-  <a href="https://www.youtube.com/@BMTBmods">YouTube</a><br/>
-  <a href="https://www.patreon.com/c/bmtbmods">Patreon</a><br/>
-  <a href="https://discord.gg/c9chbpmzqt">Discord</a>
+  <a href="https://www.youtube.com/@BMTBmods"><img src="https://img.shields.io/badge/YouTube-EAB308?style=flat&logo=youtube&logoColor=white" alt="Assetto Corsa YouTube" /></a>
+  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon-EAB308?style=flat&logo=patreon&logoColor=white" alt="Patreon" /></a>
+  <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord-EAB308?style=flat&logo=discord&logoColor=white" alt="Assetto Corsa Discord" /></a>
 </p>
