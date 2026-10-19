@@ -8,12 +8,16 @@
 </p>
 
 <p align="center">
+  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
+  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube scripts" /></a>
+  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
   <a href="https://bankrollmadethisbeat.com/">Beat Store</a> ·
   <a href="https://www.bmtbscripts.online/">Script Store</a> ·
   <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a> ·
-  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a> ·
-  <a href="https://www.instagram.com/bankrollmadethisbeat/">Instagram</a> ·
-  <a href="https://www.youtube.com/@BMTBScripts">YouTube</a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a>
 </p>
 
 ---
