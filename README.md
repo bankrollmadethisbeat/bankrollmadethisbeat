@@ -7,26 +7,30 @@
   Beats, drumkits, loopkits, and server scripts under BankrollMadeThisBeat.
 </p>
 
-<p align="center">
-  <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/BMTB_Scripts_Site-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
-  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/BMTB_Scripts_Docs-111111?style=for-the-badge&logo=gitbook&logoColor=white" alt="BMTB Scripts Docs" /></a>
-  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
-  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube scripts" /></a>
-  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon_Assetto_Corsa-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
-  <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord_Assetto_Corsa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
-  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord_BMTB_Scripts-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
-</p>
+### Beats
 
 <p align="center">
-  <a href="https://bankrollmadethisbeat.com/">Beat Store</a> ·
-  <a href="https://www.bmtbscripts.online/">BMTB Scripts Site</a> ·
-  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs">BMTB Scripts Docs</a> ·
-  <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a> ·
-  <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a> ·
-  <a href="https://www.patreon.com/c/bmtbmods">Assetto Corsa Patreon</a> ·
-  <a href="https://discord.gg/c9chbpmzqt">Assetto Corsa Discord</a> ·
-  <a href="https://discord.gg/EEYH9gzsAJ">BMTB Scripts Discord</a>
+  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Beat_Store-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Beat store" /></a>
+  <a href="https://www.beatstars.com/bankrollmadethisbeat313"><img src="https://img.shields.io/badge/BeatStars-FF2B2B?style=for-the-badge&logo=beats&logoColor=white" alt="BeatStars" /></a>
+  <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF2B2B?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
+  <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
+  <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+### FiveM scripts
+
+<p align="center">
+  <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
+  <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/Script_Docs-111111?style=for-the-badge&logo=gitbook&logoColor=white" alt="BMTB Scripts Docs" /></a>
+  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube scripts" /></a>
+  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
+</p>
+
+### Assetto Corsa
+
+<p align="center">
+  <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
+  <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
 </p>
 
 ---
@@ -39,6 +43,8 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 
 ## Links
 
+**Beats**
+
 | Place | Link |
 | --- | --- |
 | Beat store | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
@@ -47,17 +53,27 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 | BeatStars | [beatstars.com/bankrollmadethisbeat313](https://www.beatstars.com/bankrollmadethisbeat313) |
 | Gumroad | [bankrollmadethisbeat.gumroad.com](https://bankrollmadethisbeat.gumroad.com/) |
 | Stashkit 2025, $20 | [Buy Bankroll Stashkit](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit) |
-| BMTB Scripts Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
-| BMTB Scripts Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
-| YouTube, scripts | [youtube.com/@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
-| YouTube, beats | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
+| YouTube | [BankrollMadeThisBeat channel](https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g) |
 | Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
-| Assetto Corsa Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
-| Assetto Corsa Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
-| BMTB Scripts Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
 | Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
 | Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
-| GitHub store repo | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
+| GitHub | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
+
+**FiveM scripts**
+
+| Place | Link |
+| --- | --- |
+| Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
+| Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
+| YouTube | [youtube.com/@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
+| Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
+
+**Assetto Corsa**
+
+| Place | Link |
+| --- | --- |
+| Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
+| Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
 
 ## Open to
 
@@ -102,14 +118,11 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 
 ## Now
 
-- Beats and kits on [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/)
-- Stashkit checkout on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit)
-- FiveM scripts on [bmtbscripts.online](https://www.bmtbscripts.online/)
-- Script docs: [bmtbscripts.online/docs/bmtb-bag-drugs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs)
-- Assetto Corsa mods on [BMTB MODS Patreon](https://www.patreon.com/c/bmtbmods)
-- Assetto Corsa Discord: [discord.gg/c9chbpmzqt](https://discord.gg/c9chbpmzqt)
-- BMTB Scripts Discord: [discord.gg/EEYH9gzsAJ](https://discord.gg/EEYH9gzsAJ)
-- Placements listed on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+**Beats** — catalog on [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+
+**FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [Discord](https://discord.gg/EEYH9gzsAJ)
+
+**Assetto Corsa** — [Patreon](https://www.patreon.com/c/bmtbmods) and [Discord](https://discord.gg/c9chbpmzqt)
 
 ## GitHub
 
