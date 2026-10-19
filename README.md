@@ -140,21 +140,3 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 **FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [YouTube](https://www.youtube.com/@BMTBScripts), [Discord](https://discord.gg/EEYH9gzsAJ)
 
 **Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bankrollmadethisbeat&show_icons=true&hide_border=true&bg_color=000000&title_color=eab308&icon_color=eab308&text_color=ffffff" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankrollmadethisbeat&layout=compact&hide_border=true&bg_color=000000&title_color=eab308&text_color=ffffff" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bankrollmadethisbeat&no-frame=true&column=4&bg_color=000000&title_color=EAB308&text_color=ffffff&icon_color=EAB308" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bankrollmadethisbeat&bg_color=000000&color=ffffff&line=eab308&point=FFD60A&area=true&hide_border=true" alt="Contribution graph" />
-</p>
