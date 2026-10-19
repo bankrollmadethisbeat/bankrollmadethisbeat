@@ -59,7 +59,7 @@
 
 <p align="center">FiveM is seven months in as of October 2026. The scripts run on ESX and QBCore, with ESX as the main framework. Custom skins and chains, clothing and jewelry for FiveM, are on <a href="https://www.bmtbscripts.online/">bmtbscripts.online</a>.</p>
 
-<p align="center">Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it, with a live session on TikTok every day. Mods and PP filters are in development.</p>
+<p align="center">Assetto Corsa is the sim I drive. I run a Moza R5 and put real time on it. I go live every day for racing and music on TikTok at <a href="https://www.tiktok.com/@itsbankroll313">@itsbankroll313</a>. Mods and PP filters are in development.</p>
 
 <h2 align="center">🔗 Links</h2>
 
