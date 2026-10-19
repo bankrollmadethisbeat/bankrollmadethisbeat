@@ -10,7 +10,7 @@
 ### Beats
 
 <p align="center">
-  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Beat_Store-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Beat store" /></a>
+  <a href="https://bankrollmadethisbeat.com/"><img src="https://img.shields.io/badge/Buy_Beats_Here-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buy beats here" /></a>
   <a href="https://www.beatstars.com/bankrollmadethisbeat313"><img src="https://img.shields.io/badge/BeatStars-FF2B2B?style=for-the-badge&logo=beats&logoColor=white" alt="BeatStars" /></a>
   <a href="https://bankrollmadethisbeat.gumroad.com/"><img src="https://img.shields.io/badge/Gumroad-FF2B2B?style=for-the-badge&logo=gumroad&logoColor=white" alt="Gumroad" /></a>
   <a href="https://www.youtube.com/channel/UCZ0MlHGthr3EB8HCY4Clo_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube beats" /></a>
@@ -47,7 +47,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 
 | Place | Link |
 | --- | --- |
-| Beat store | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
+| Buy beats here | [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/) |
 | Drumkits | [bankrollmadethisbeat.com/drumkits](https://bankrollmadethisbeat.com/drumkits.html) |
 | Loopkits | [bankrollmadethisbeat.com/loopkits](https://bankrollmadethisbeat.com/loopkits.html) |
 | BeatStars | [beatstars.com/bankrollmadethisbeat313](https://www.beatstars.com/bankrollmadethisbeat313) |
@@ -118,7 +118,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 
 ## Now
 
-**Beats** — catalog on [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
+**Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
 **FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [Discord](https://discord.gg/EEYH9gzsAJ)
 
