@@ -13,6 +13,7 @@
   <a href="https://www.instagram.com/bankrollmadethisbeat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.patreon.com/c/bmtbmods"><img src="https://img.shields.io/badge/Patreon_Assetto_Corsa-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="BMTB MODS Patreon" /></a>
   <a href="https://discord.gg/c9chbpmzqt"><img src="https://img.shields.io/badge/Discord_Assetto_Corsa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Assetto Corsa Discord" /></a>
+  <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord_BMTB_Scripts-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
 <p align="center">
@@ -21,7 +22,8 @@
   <a href="https://www.beatstars.com/bankrollmadethisbeat313">BeatStars</a> ·
   <a href="https://bankrollmadethisbeat.gumroad.com/">Gumroad</a> ·
   <a href="https://www.patreon.com/c/bmtbmods">Assetto Corsa Patreon</a> ·
-  <a href="https://discord.gg/c9chbpmzqt">Assetto Corsa Discord</a>
+  <a href="https://discord.gg/c9chbpmzqt">Assetto Corsa Discord</a> ·
+  <a href="https://discord.gg/EEYH9gzsAJ">BMTB Scripts Discord</a>
 </p>
 
 ---
@@ -48,6 +50,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 | Instagram | [@bankrollmadethisbeat](https://www.instagram.com/bankrollmadethisbeat/) |
 | Assetto Corsa Patreon | [BMTB MODS](https://www.patreon.com/c/bmtbmods) |
 | Assetto Corsa Discord | [BMTB Assetto Corsa](https://discord.gg/c9chbpmzqt) |
+| BMTB Scripts Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
 | Credits | [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits) |
 | Email | [bankrollmadethisbeat@gmail.com](mailto:bankrollmadethisbeat@gmail.com) |
 | GitHub store repo | [BMTB-Store](https://github.com/bankrollmadethisbeat/BMTB-Store) |
@@ -100,6 +103,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 - FiveM scripts on [bmtbscripts.online](https://www.bmtbscripts.online/)
 - Assetto Corsa mods on [BMTB MODS Patreon](https://www.patreon.com/c/bmtbmods)
 - Assetto Corsa Discord: [discord.gg/c9chbpmzqt](https://discord.gg/c9chbpmzqt)
+- BMTB Scripts Discord: [discord.gg/EEYH9gzsAJ](https://discord.gg/EEYH9gzsAJ)
 - Placements listed on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
 ## GitHub
