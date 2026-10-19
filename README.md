@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://www.bmtbscripts.online/"><img src="https://img.shields.io/badge/Scripts_Site-FF2B2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="BMTB Scripts Site" /></a>
   <a href="https://www.bmtbscripts.online/docs/bmtb-bag-drugs"><img src="https://img.shields.io/badge/Script_Docs-111111?style=for-the-badge&logo=gitbook&logoColor=white" alt="BMTB Scripts Docs" /></a>
-  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube scripts" /></a>
+  <a href="https://www.youtube.com/@BMTBScripts"><img src="https://img.shields.io/badge/BMTB_Scripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="BMTB Scripts YouTube" /></a>
   <a href="https://discord.gg/EEYH9gzsAJ"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="BMTB Scripts Discord" /></a>
 </p>
 
@@ -70,7 +70,7 @@ Bankroll Stashkit 2025 is $20 on Gumroad. The other drumkits and loopkits are fr
 | --- | --- |
 | Site | [bmtbscripts.online](https://www.bmtbscripts.online/) |
 | Docs | [Docs for all scripts](https://www.bmtbscripts.online/docs/bmtb-bag-drugs) |
-| YouTube | [youtube.com/@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
+| BMTB Scripts YouTube | [@BMTBScripts](https://www.youtube.com/@BMTBScripts) |
 | Discord | [BMTB Scripts](https://discord.gg/EEYH9gzsAJ) |
 
 **Assetto Corsa**
@@ -126,7 +126,7 @@ Loops are not royalty-free. A beat that uses one of my loops is a 50/50 split. A
 
 **Beats** — buy beats at [bankrollmadethisbeat.com](https://bankrollmadethisbeat.com/), live cookups on [@BankrollMadeThisBeat313](https://www.youtube.com/@BankrollMadeThisBeat313), Milwaukee beats for sale on [@BMTB313](https://www.youtube.com/@BMTB313), Stashkit on [Gumroad](https://bankrollmadethisbeat.gumroad.com/l/bankrollstashkit), credits on [Muso.AI](https://credits.muso.ai/profile/32bb0106-0fca-451f-84d6-1d09b609dd3f/credits)
 
-**FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [Discord](https://discord.gg/EEYH9gzsAJ)
+**FiveM scripts** — [bmtbscripts.online](https://www.bmtbscripts.online/), [docs](https://www.bmtbscripts.online/docs/bmtb-bag-drugs), [YouTube](https://www.youtube.com/@BMTBScripts), [Discord](https://discord.gg/EEYH9gzsAJ)
 
 **Assetto Corsa** — [YouTube](https://www.youtube.com/@BMTBmods), [Patreon](https://www.patreon.com/c/bmtbmods), and [Discord](https://discord.gg/c9chbpmzqt)
 
